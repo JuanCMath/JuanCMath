@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm JuanCMath, a Computer Science undergraduate at the University of Havana. I am passionate about technology, eager to learn, and enjoy exploring new areas in computer science. I value teamwork, clear communication, and approach every challenge with creativity and a positive attitude. I am always looking for opportunities to grow both personally and professionally.
+I'm Juan Carlos, a Computer Science undergraduate at the University of Havana. I am passionate about technology, eager to learn, and enjoy exploring new areas in computer science. I value teamwork, clear communication, and approach every challenge with creativity and a positive attitude. I am always looking for opportunities to grow both personally and professionally.
 
 
 # 💻 Tech Stack:
